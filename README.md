@@ -1,2 +1,1 @@
 # javaTutorial
-Learning Java
